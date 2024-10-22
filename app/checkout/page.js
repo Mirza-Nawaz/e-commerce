@@ -132,9 +132,14 @@ export default function Checkout() {
                   justifyContent: "space-between",
                   marginBottom: "10px",
                   alignItems: "center",
+                  fontSize: "18px",
                 }}
               >
-                <h3>Total</h3>
+                <h4
+                  style={{
+                    fontWeight: "bolder ",
+                  }}
+                >Total</h4>
                 <h4
                   style={{
                     color: "gray",

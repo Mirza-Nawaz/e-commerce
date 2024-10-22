@@ -17,6 +17,9 @@ const DefaultLayout = ({ children }) => {
     if (selectedItem && selectedItem.path) {
       router.push(selectedItem.path);
     }
+    else {
+      console.warn("Invalid selection or path is missing.");
+    }
   };
 
   return (
