@@ -29,7 +29,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Check out page
-![image](https://github.com/user-attachments/assets/3dc5db7a-ba26-48d8-a116-dd4a8aa4de8f)
+![image](https://github.com/user-attachments/assets/179914d0-b448-4541-b729-45dab2fa0882)
+
 
 
 ## PayFort Payment Gateway
