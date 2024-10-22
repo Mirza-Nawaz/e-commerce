@@ -65,8 +65,8 @@ export const menuItems = [
   },
   {
     key: "2",
-    name: "About Us",
-    label: "About Us",
-    path: "/about-us",
+    name: "CheckOut",
+    label: "Check Out",
+    path: "/checkout",
   },
 ];
