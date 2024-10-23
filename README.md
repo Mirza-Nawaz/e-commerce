@@ -36,7 +36,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## Payment Success Page
 ![image](https://github.com/user-attachments/assets/e1e2bdc7-af51-4175-b4ac-1edd45b570bb)
 
-## Payment Success Page
+## Payment Failure Page
 ![image](https://github.com/user-attachments/assets/a5f288c9-1f1a-4fac-9077-d594a1a2d3b2)
 
 ## Invalid Signature Page
