@@ -89,15 +89,6 @@ export default function Checkout() {
           padding: "0 48px",
         }}
       >
-        {/* <div
-          style={{
-            padding: 24,
-            display: "flex",
-            justifyContent: "space-between",
-          }}
-        >
-          <h1>Payment</h1>
-        </div> */}
         <Card
           style={{
             width: "400px",
